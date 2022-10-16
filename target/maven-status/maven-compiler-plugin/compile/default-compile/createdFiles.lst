@@ -1,0 +1,6 @@
+application\Main.class
+controller\Controller.class
+module-info.class
+controller\Controller$1.class
+utils\Utils.class
+controller\Controller$ModuleType.class

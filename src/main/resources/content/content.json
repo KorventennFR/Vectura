@@ -1,0 +1,45 @@
+{
+	"modules" : [
+		{
+			"name" : "engine",
+			"mcqs" : [
+				{
+					"question" : "What is the color of the sky ?",
+					"answers" : [
+						{
+							"content" : "Blue",
+							"correct" : true
+						},
+						{
+							"content" : "Red",
+							"correct" : false
+						},
+						{
+							"content" : "Grey",
+							"correct" : true
+						}
+					],
+					"indication" : "You should lift your head !"
+				},
+				{
+					"question" : "Why am I doing this ?",
+					"answers" : [
+						{
+							"content" : "I don't know",
+							"correct" : true
+						},
+						{
+							"content" : "Because I need to",
+							"correct" : false
+						},
+						{
+							"content" : "What else could I do ?",
+							"correct" : false
+						}
+					],
+					"indication" : "You can ask me !"
+				}
+			]
+		}
+	]
+}
